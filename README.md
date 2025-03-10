@@ -54,4 +54,4 @@ I'm eager to hear your feedback and explore further enhancements, such as:
 
 *Conclusion*
 
-The Tic Tac Toe game is a classic game that has been enjoyed by people of all ages for generations. I'm proud to have implemented this game in Codsoft, and I hope that you enjoy playing it!
+The Tic Tac Toe game is a classic game that has been enjoyed by people of all ages for generations.
