@@ -1,7 +1,7 @@
 
-*Tic Tac Toe Game in Codsoft*
+*Tic Tac Toe Game *
 
-A classic game of Tic Tac Toe implemented in Codsoft, designed to provide a smooth and enjoyable user experience.
+A classic game of Tic Tac Toe implemented, designed to provide a smooth and enjoyable user experience.
 
 *Table of Contents*
 
@@ -16,7 +16,7 @@ A classic game of Tic Tac Toe implemented in Codsoft, designed to provide a smoo
 
 *Introduction*
 
-I'm excited to announce the completion of Task 3, the Tic Tac Toe game, using Codsoft! After designing and developing the game, I've tested it thoroughly to ensure a smooth and enjoyable user experience.
+I'm excited to announce, the Tic Tac Toe game, using Codsoft! After designing and developing the game, I've tested it thoroughly to ensure a smooth and enjoyable user experience.
 
 *Features*
 
@@ -28,7 +28,7 @@ I'm excited to announce the completion of Task 3, the Tic Tac Toe game, using Co
 
 *Design and Development*
 
-The game is designed to be modular and scalable, with separate functions for handling user input, updating the game state, and checking for win and draw conditions. The user interface is implemented using [insert UI technology], with clear and concise prompts for user input.
+The game is designed to be modular and scalable, with separate functions for handling user input, updating the game state, and checking for win and draw conditions. The user interface is implemented with clear and concise prompts for user input.
 
 *Testing and Quality Assurance*
 
